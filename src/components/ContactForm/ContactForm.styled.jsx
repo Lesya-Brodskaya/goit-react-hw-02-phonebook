@@ -34,7 +34,7 @@ color: rgb(60, 58, 58);
 
 :hover,
 :focus {
-    background-color: rgb(255, 121, 62);
+    background-color: orange;
     color: #fff;
     border-color: transparent;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
