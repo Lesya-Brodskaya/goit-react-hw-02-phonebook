@@ -20,7 +20,7 @@ export const Text = styled.p`
 export const Button = styled.button`
   width: 100px;
   border: 1px solid rgb(60, 58, 58);
-  margin: auto;
+  margin: 10px;
   border-radius: 10px;
 
   :hover,

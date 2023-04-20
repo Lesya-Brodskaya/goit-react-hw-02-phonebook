@@ -29,8 +29,8 @@ class App extends Component {
 
     const contact = {
       id: shortid.generate(),
-      name: name,
-      number: number,
+      name,
+      number,
     };
 
     this.setState(prevState => ({
