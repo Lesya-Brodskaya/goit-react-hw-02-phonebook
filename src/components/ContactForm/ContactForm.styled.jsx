@@ -25,6 +25,7 @@ export const Input = styled.input`
 `;
 
 export const Button = styled.button`
+  margin-bottom: 30px;
   padding: 3px;
   width: 150px;
   height: 40px;
